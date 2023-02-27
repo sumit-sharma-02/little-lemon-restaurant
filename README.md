@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-    <img src="https://img.shields.io/badge/React Reveal-FFFFFF?style=for-the-badge&logo=react-responsive-carousel&logoColor=000000" alt="React Responsive Carousel" />
+    <img src="https://img.shields.io/badge/React Responsive Carousel-FFFFFF?style=for-the-badge&logo=react-responsive-carousel&logoColor=000000" alt="React Responsive Carousel" />
 </p>
 
 <p align="center"> 
@@ -19,6 +19,10 @@
   </p>
   
   <h3 align="center"><a href=""><strong>« Try the demo here »</strong></a></h3>
+  
+  <p align="center"> 
+    Little Lemon Restaurant, a family run Mediterranean restaurant located in Chicago, Illinois. Please come and enjoy our wide selection of authentic Mediterranean cuisine!
+  </p>
   
   ![little-lemon-restaurant-mockup](https://user-images.githubusercontent.com/52236473/216830515-16d7ef05-09fd-49b3-8a38-e7cc06f26d45.png)
   
@@ -38,12 +42,12 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831665-db3debeb-09af-462e-8d57-53586d6a1ce0.png" alt="home" /></td>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831803-c4183e0f-bb2f-4d98-ad46-9a570006b599.png" alt="education" /></td>
+    <td><img src="https://user-images.githubusercontent.com/52236473/221521518-95e917a5-aa55-44b9-92c3-6196b1298754.png" alt="home-page-1" /></td>
+    <td><img src="https://user-images.githubusercontent.com/52236473/221521710-9db219e2-5baa-49ff-8f20-cbee0480e9a4.png" alt="home-page-2" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831873-e51df2c2-fa91-4565-855a-691939f41f3b.png" alt="experience" /></td>
-    <td><img src="https://user-images.githubusercontent.com/52236473/216831893-81751f41-3a94-4d0d-94eb-f15608ebc7da.png" alt="projects" /></td>
+    <td><img src="https://user-images.githubusercontent.com/52236473/221522208-82114c4a-4993-4edf-83b9-05eb6b995407.png" alt="reservation-1" /></td>
+    <td><img src="https://user-images.githubusercontent.com/52236473/221522269-f805ba25-cca3-4ff6-9e9b-724e2b9b6725.png" alt="reservation-2" /></td>
   </tr>
 </table>
 
@@ -51,8 +55,8 @@
 
 ```shell
 $ git clone https://github.com/sumit-sharma-02/little-lemon-restaurant.git
-$ cd portfolio
-$ npm install --force
+$ cd little-lemon-restaurant
+$ npm install
 ```
 
 ### Launch the app
