@@ -61,13 +61,6 @@ export default function Footer() {
             >
               Instagram
             </a>
-            <a
-              href="https://www.youtube.com/watch?v=3Li-FfypZYE"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Join us!
-            </a>
           </ul>
         </li>
       </menu>
