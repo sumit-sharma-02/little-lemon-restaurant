@@ -354,6 +354,7 @@ footer > menu {
   text-align: center;
   color: white;
   margin-top: -1.4rem;
+  overflow: hidden;
 }
 
 .header-reserve {
